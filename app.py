@@ -166,7 +166,7 @@ st.session_state.data = data.set_index("Name")
 
 #st.set_page_config(layout="centered", page_title="Data Editor", page_icon="🧮")
 
-st.title("🧠 Guess the idiom")
+st.title("♟️ Chess tournament")
 
 
 
